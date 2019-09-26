@@ -6,7 +6,9 @@
 ## C_MazeRunner:
 ### 一个简单迷宫探险游戏。特点是玩家的视野一开始是被限制的，但会在探险过程中不断拓展。目标是找到迷宫的出口。（用一颗五角星标识）
 + 游戏截图
+
 ![](./figs/screenShot1.PNG)
+
 ![](./figs/screenShot2.PNG)
 + how to play: Debug文件下.exe是游戏可执行文件。 
 + 代码编辑：使用vs studio 打开（之后有时间把vs studio的依赖库去掉，使用VScode）
